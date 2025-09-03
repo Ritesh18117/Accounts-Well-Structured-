@@ -3,7 +3,6 @@ package com.project.accounts.controller;
 import com.project.accounts.Constants.AccountsConstants;
 import com.project.accounts.dto.CustomerDto;
 import com.project.accounts.dto.ResponseDto;
-import com.project.accounts.entity.Customer;
 import com.project.accounts.service.IAccountsService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
